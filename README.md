@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create an account in Azure and setup a Virtual Machine
+  C:\Users\Niakia Channell\OneDrive\Pictures\Screenshots\Screenshot_20230212_124911.png
 - Also 2
 - Also 3
 - Also 4
