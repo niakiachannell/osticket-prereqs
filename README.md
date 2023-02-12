@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create an account in Azure and setup a Virtual Machine
-https://imgur.com/a/S6zqGAW
+<img src="https://i.imgur.com/v6kJffu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 - Also 2
 - Also 3
 - Also 4
