@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Also 1
+- Create an account in Azure and setup a Virtual Machine
 - Also 2
 - Also 3
 - Also 4
